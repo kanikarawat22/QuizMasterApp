@@ -1,0 +1,1 @@
+QuizMasterApp is a fun and interactive Android quiz application built using Kotlin. It allows users to test their knowledge on various topics by answering multiple-choice questions. The app provides immediate feedback and keeps track of scores to encourage learning in a gamified way.
